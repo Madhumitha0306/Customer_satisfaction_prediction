@@ -52,9 +52,3 @@ Includes:
 - SQL-based data pipeline integration  
 
 
-
-
----
-
-## ⭐ Show Your Support
-If you like this project, give it a ⭐ on GitHub — it motivates further improvements!
